@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.0
+Author: Chhotu Kumar
+Author-email: Chhotuchiitodiya@gmail.com
+Requires-Dist: NumPy
+Requires-Dist: Pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
