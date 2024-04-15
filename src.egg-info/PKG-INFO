@@ -5,5 +5,7 @@ Author: Chhotu Kumar
 Author-email: Chhotuchiitodiya@gmail.com
 Requires-Dist: NumPy
 Requires-Dist: Pandas
-Requires-Dist: seaborn
-Requires-Dist: matplotlib
+Requires-Dist: streamlit
+Requires-Dist: joblib
+Requires-Dist: xgboost
+Requires-Dist: scikit-learn

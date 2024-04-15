@@ -1,4 +1,6 @@
 NumPy
 Pandas
-seaborn
-matplotlib
+streamlit
+joblib
+xgboost
+scikit-learn
