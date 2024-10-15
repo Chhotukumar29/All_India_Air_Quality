@@ -28,7 +28,7 @@
 * Dropping unnecessary clumns
 * Train Test split the data
 * Using OneHotEncoder and StandardScaler 
-*  Transforming the data
+* Transforming the data
 * Evaluate Function to give all metrics after model Training
 * Implements RandomizedSearchCV to tune & evaluate multiple regression models
 * Create table & sorts models by their R2 score (best to worst)
